@@ -1,4 +1,4 @@
-import type { PropsWithChildren, ReactElement, ReactNode } from 'react';
+import type { JSX, PropsWithChildren, ReactElement, ReactNode } from 'react';
 import React, { Component } from 'react';
 import fastCompare from 'react-fast-compare';
 import invariant from 'invariant';
